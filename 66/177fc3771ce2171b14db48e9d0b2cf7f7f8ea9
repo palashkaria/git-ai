@@ -1,0 +1,23 @@
+tests/simple_additions.rs
+  21056b06630fac78 1131-1231
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "66177fc3771ce2171b14db48e9d0b2cf7f7f8ea9",
+  "prompts": {
+    "21056b06630fac78": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c31a05d7-c96f-40fd-80db-eeaceb576892",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "unknown",
+      "messages": [],
+      "total_additions": 101,
+      "total_deletions": 0,
+      "accepted_lines": 101,
+      "overriden_lines": 0
+    }
+  }
+}
