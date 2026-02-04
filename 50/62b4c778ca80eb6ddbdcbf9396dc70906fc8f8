@@ -1,0 +1,23 @@
+src/authorship/post_commit.rs
+  21056b06630fac78 74-77,82-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "5062b4c778ca80eb6ddbdcbf9396dc70906fc8f8",
+  "prompts": {
+    "21056b06630fac78": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c31a05d7-c96f-40fd-80db-eeaceb576892",
+        "model": "claude-opus-4-5-20251101"
+      },
+      "human_author": "unknown",
+      "messages": [],
+      "total_additions": 47,
+      "total_deletions": 21,
+      "accepted_lines": 29,
+      "overriden_lines": 0
+    }
+  }
+}
